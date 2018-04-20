@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ayushaggarwal1993/WeatherApp-Node/issues"
   },
-  "homepage": "https://github.com/ayushaggarwal1993/WeatherApp-Node#readme"
+  "homepage": "https://github.com/ayushaggarwal1993/WeatherApp-Node#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
 }
