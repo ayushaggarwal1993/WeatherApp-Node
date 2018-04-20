@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp-node",
+  "version": "1.0.0",
+  "description": "Weather App ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushaggarwal1993/WeatherApp-Node.git"
+  },
+  "author": "Ayush Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushaggarwal1993/WeatherApp-Node/issues"
+  },
+  "homepage": "https://github.com/ayushaggarwal1993/WeatherApp-Node#readme"
+}
